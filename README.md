@@ -113,7 +113,7 @@ To get started with any of the projects, follow these steps:
 1. **Clone this repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   https://github.com/Quratulain-bilal/Project_4_assigment.git
    cd your-repo
 Create a virtual environment (optional but recommended):
 
