@@ -147,7 +147,7 @@ The primary programming language used for all projects and assignments.
 Streamlit
 Utilized for building interactive web applications with minimal effort.
 
-Git & GitHub
+ GitHub
 Employed for version control and collaboration, ensuring code integrity and teamwork.
 
 
