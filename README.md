@@ -108,7 +108,7 @@ Each section under `homework_projects` delves into essential Python topics:
 
 ## 🛠️ How to Run the Projects
 
-To get started with any of the projects, follow these steps:
+ get started with any of the projects, follow these steps:
 
 1. **Clone this repository:**
 
